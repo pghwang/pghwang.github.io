@@ -39,14 +39,14 @@ round-avatar: true
 social-network-links:
   email: "hwangp@alum.mit.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: https://facebook.com/pgmhwang
-  github: https://github.com/pghwang
+  facebook: pgmhwang
+  github: pghwang
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/pghwang/
+  linkedin: pghwang
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
