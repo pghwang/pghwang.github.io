@@ -38,7 +38,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "hwangp@alum.mit.edu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: pgmhwang
   github: pghwang
 #  twitter: daattali
@@ -67,13 +67,13 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Check out my RSS feed!
+# rss-description: Check out my RSS feed!
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: flase
+  twitter: false
   facebook: true
   linkedin: true
   vk: false
